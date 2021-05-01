@@ -1,7 +1,7 @@
 # accessibility_standards
 
 ## Purpose
-Website provides optimization for businesses to use.
+Website provides optimization for businesses to use. Was created for Challenge 1.
 
 ## Built With
 * HTML
