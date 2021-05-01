@@ -1,8 +1,13 @@
 # accessibility_standards
 
-##Purpose
+## Purpose
 Website provides optimization for businesses to use.
 
-##Built With
+## Built With
 * HTML
 * CSS
+
+## Website
+
+## Contribution
+Made by Parker Christiansen
