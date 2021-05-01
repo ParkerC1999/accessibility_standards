@@ -11,4 +11,4 @@ Website provides optimization for businesses to use. Was created for Challenge 1
 https://parkerc1999.github.io/accessibility_standards/Develop/index.html
 
 ## Contribution
-Made by Parker Christiansen
+Edited by Parker Christiansen
